@@ -60,3 +60,9 @@ You can also find all the original code in various languages there (including my
 In addition the source code is available here.
 
 http://www.vintage-basic.net/games.html
+
+**A note about the conversions**
+
+My idea is to preserve the original look and feel of the games.  I am trying to clone the look and feel and functionality of the original game, but in modern C++.  All games will be command line based, without any fancy graphics.  Back in the 1980's this is how most people coded.  
+
+If I find an obvious bug, I'll fix it but document it as well.  So expect to see a "Warts and all" approach to the game conversions.
