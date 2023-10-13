@@ -66,3 +66,13 @@ http://www.vintage-basic.net/games.html
 My idea is to preserve the original look and feel of the games.  I am trying to clone the look and feel and functionality of the original game, but in modern C++.  All games will be command line based, without any fancy graphics.  Back in the 1980's this is how most people coded.  
 
 If I find an obvious bug, I'll fix it but document it as well.  So expect to see a "Warts and all" approach to the game conversions.
+
+Environment.
+
+I'm compiling using Clang 15 on a Macbook M1 Max Pro 
+see .clangd file for compile flags (C++20) at the time of typing this.
+
+Apple clang version 15.0.0 (clang-1500.0.40.1)
+Target: arm64-apple-darwin22.6.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/
